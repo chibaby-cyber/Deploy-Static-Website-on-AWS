@@ -52,4 +52,4 @@
 ![](Images/sh18.png)
 
 
-#### I cleaned up by deleting the objects (files) in my bucket and deleting my cloudfont distribution.
+#### I cleaned up by deleting my bucket recursively and deleting my cloudfont distribution.
