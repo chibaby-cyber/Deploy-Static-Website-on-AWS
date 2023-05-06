@@ -9,7 +9,7 @@
 ![](Images/sh1.png)
 #### 2. On s3 dashboard, click the create bucket button to create a bucket
 ![](images/sh2.png)
-#### 3. Name bucket (a unique global name), 
+#### 3. Give bucket a unique global name, 
 ![](images/sh3.png)
 #### 4. Disable block public access settings for this bucket, so as to make this bucket publicly visible, then acknowledge.
 ![](images/sh4.png)
